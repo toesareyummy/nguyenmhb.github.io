@@ -1,0 +1,31 @@
+body{
+    background-color: #1b1b1b;
+    font-family: 'Hind';font-size: 22px;
+}
+.testclass {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-family: 'Hind';
+  }
+.link {
+    color: rgb(255, 255, 255);
+    font-family: 'Hind';font-size: 22px;
+    font-size: 55px;
+    position: absolute;
+    bottom: 575px;
+    right: 50px;
+    width: 100px;
+    text-align:right;
+    text-decoration: none;
+}
+.top{
+    font-size: 30px;
+    font-weight: bolder;
+    position: absolute;
+    bottom: 700px;
+    
+}
+.title {
+    position: absolute;
+    text-align: center;
+}
